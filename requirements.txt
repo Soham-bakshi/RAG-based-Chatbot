@@ -1,0 +1,12 @@
+PyPDF2
+langchain
+langchain_community
+langchain_neo4j
+langchain_experimental
+langchain_google_genai
+langchain_huggingface
+chromadb
+sentence-transformers
+streamlit
+streamlit_chat
+nemoguardrails
