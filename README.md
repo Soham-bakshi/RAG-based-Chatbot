@@ -9,7 +9,8 @@ An interactive **Streamlit-based chatbot** for querying information from a finan
 
 ```bash
 .
-├── main.py                 # Main Streamlit app with RAG pipeline
+├── main.py               # Main Streamlit app with RAG pipeline
+├──venv                   # virtual environment
 ├── rails_wrapper.py        # Custom Gemini LLM wrapper for NeMo Guardrails
 ├── chroma_db/              # Persisted Chroma vectorstore
 ├── FY24_Q1_Consolidated...# PDF to be queried
